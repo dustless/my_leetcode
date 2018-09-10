@@ -13,6 +13,7 @@ class Solution:
                 result[key].append(str)
         return result.values()
 
+
 if __name__ == '__main__':
     solution = Solution()
     strs = ["eat", "tea", "tan", "ate", "nat", "bat"]
